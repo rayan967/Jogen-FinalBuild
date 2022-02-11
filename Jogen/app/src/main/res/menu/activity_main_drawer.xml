@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item android:title="My List">
+            <menu>
+                <item
+                    android:id="@+id/nav_home"
+                    android:title="All" />
+
+                <item
+                    android:id="@+id/nav_gallery"
+                    android:title="Watching" />
+
+                <item
+                    android:id="@+id/nav_slideshow"
+                    android:title="Completed" />
+
+                <item
+                    android:id="@+id/nav_slideshow2"
+                    android:title="On Hold" />
+
+                <item
+                    android:id="@+id/nav_slideshow3"
+                    android:title="Dropped" />
+
+                <item
+                    android:id="@+id/nav_slideshow4"
+                    android:title="Plan to watch" />
+            </menu>
+        </item>
+
+        <item
+            android:id="@+id/nav_search"
+            android:title="Discover"/>
+
+        <item
+            android:title="Recommendations"
+            android:id="@+id/nav_recb"/>
+
+        <item
+            android:title="Adv. Recommendations"
+            android:id="@+id/nav_reca"/>
+
+        <item
+            android:title="Logout"
+            android:id="@+id/nav_logout"/>
+
+
+
+
+    </group>
+</menu>

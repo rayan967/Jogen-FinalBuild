@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/layout/activity_login.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/layout/activity_main.xml" value="0.29846014492753625" />
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/layout/activity_main2.xml" value="0.35280797101449274" />
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/layout/anime_description.xml" value="0.33" />
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/layout/app_bar_main.xml" value="0.2921195652173913" />
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/layout/content_main.xml" value="0.35778985507246375" />
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/layout/eps_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/layout/fragment_anime.xml" value="0.35778985507246375" />
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/layout/fragment_discover.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/layout/fragment_dropped.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/layout/fragment_gallery.xml" value="0.35778985507246375" />
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/layout/fragment_home.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/layout/fragment_login.xml" value="0.29846014492753625" />
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/layout/fragment_login2.xml" value="0.29846014492753625" />
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/layout/fragment_logout.xml" value="0.309375" />
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/layout/fragment_on_hold.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/layout/fragment_recommend_a.xml" value="0.2" />
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/layout/fragment_recommend_b.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/layout/fragment_slideshow.xml" value="0.35280797101449274" />
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/layout/nav_header_main.xml" value="0.35778985507246375" />
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/layout/recommend_a_item.xml" value="0.75" />
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/layout/recommendation_item.xml" value="0.33" />
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/layout/search_view_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/layout/watch_list_item.xml" value="0.33" />
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/menu/main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/menu/score_menu.xml" value="0.359375" />
+        <entry key="..\:/Users/rayan/AndroidStudioProjects/new2/Jogen/app/src/main/res/menu/watch_status_menu.xml" value="0.5" />
+        <entry key="..\:/Users/rayan/Build/android/Jogen/app/src/main/res/layout/fragment_gallery.xml" value="0.27890625" />
+        <entry key="..\:/Users/rayan/Build/android/Jogen/app/src/main/res/layout/fragment_home.xml" value="0.27890625" />
+        <entry key="..\:/Users/rayan/Build/android/Jogen/app/src/main/res/layout/fragment_recommend_b.xml" value="0.27890625" />
+        <entry key="..\:/Users/rayan/Build/android/Jogen/app/src/main/res/menu/score_menu.xml" value="0.54375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

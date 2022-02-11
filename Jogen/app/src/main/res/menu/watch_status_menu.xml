@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/Watching"
+        android:title="Watching" />
+    <item android:id="@+id/Completed"
+        android:title="Completed" />
+    <item android:id="@+id/OnHold"
+        android:title="On Hold" />
+    <item android:id="@+id/Dropped"
+        android:title="Dropped" />
+    <item android:id="@+id/PlantoWatch"
+        android:title="Plan to Watch" />
+
+
+</menu>

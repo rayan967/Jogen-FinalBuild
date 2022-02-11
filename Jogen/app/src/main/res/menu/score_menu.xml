@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/no_score"
+        android:title="- / No score" />
+    <item android:id="@+id/masterpiece"
+        android:title="10 / Masterpiece" />
+    <item android:id="@+id/OnHold"
+        android:title="9 / Great" />
+    <item android:id="@+id/Dropped"
+        android:title="8 /  Very good" />
+    <item android:id="@+id/good"
+        android:title="7 / Good" />
+    <item android:id="@+id/menu6"
+        android:title="6 / Fine" />
+    <item android:id="@+id/menu5"
+        android:title="5 / Average" />
+
+    <item android:id="@+id/menu4"
+        android:title="4 / Bad" />
+
+    <item android:id="@+id/menu3"
+        android:title="3 / Very Bad" />
+
+    <item android:id="@+id/menu2"
+        android:title="2 / Horrible" />
+
+    <item android:id="@+id/menu1"
+        android:title="1 / Appalling" />
+
+
+</menu>

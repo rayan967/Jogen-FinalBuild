@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.jogen.Fragments.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home">
+    <action
+        android:id="@+id/action_firstFragment_to_secondFragment"
+        app:destination="@id/nav_anime"
+        app:popUpTo="@+id/nav_home"
+        app:popUpToInclusive="true"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_anime"
+        android:name="com.example.jogen.Fragments.AnimeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_anime"
+        />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.jogen.ui.gallery.WatchingFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.example.jogen.ui.slideshow.CompletedFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_slideshow2"
+        android:name="com.example.jogen.Fragments.OnHoldFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_slideshow3"
+        android:name="com.example.jogen.Fragments.DroppedFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_slideshow4"
+        android:name="com.example.jogen.Fragments.PlannedFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_search"
+        android:name="com.example.jogen.Fragments.DiscoverFragment"
+        android:label="Discover"
+        tools:layout="@layout/fragment_discover" />
+
+
+    <fragment
+        android:id="@+id/nav_recb"
+        android:name="com.example.jogen.Fragments.RecommendBFragment"
+        android:label="Recommendations"
+        tools:layout="@layout/fragment_recommend_b">
+
+    <action
+        android:id="@+id/action_recb_to_anime"
+        app:destination="@id/nav_anime"
+        app:popUpTo="@+id/nav_recb"
+        app:popUpToInclusive="true"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_reca"
+        android:name="com.example.jogen.Fragments.RecommendAFragment"
+        android:label="Recommendations"
+        tools:layout="@layout/fragment_recommend_a" />
+
+    <fragment
+        android:id="@+id/nav_logout"
+        android:name="com.example.jogen.Fragments.LogoutFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_logout" />
+
+
+
+</navigation>
