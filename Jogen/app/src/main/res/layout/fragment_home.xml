@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:id="@+id/container2"
     android:background="@color/white"
-    tools:context=".Fragments.HomeFragment">
+    tools:context="com.jogen.Fragments.HomeFragment">
 
     <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
         android:id="@+id/pullToRefresh"

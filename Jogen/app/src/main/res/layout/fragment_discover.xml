@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:id="@+id/container2"
-    tools:context=".Fragments.DiscoverFragment">
+    tools:context="com.jogen.Fragments.DiscoverFragment">
 
     <androidx.appcompat.widget.SearchView
         android:layout_width="match_parent"
